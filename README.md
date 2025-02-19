@@ -1,3 +1,5 @@
+https://drive.google.com/drive/folders/1dPpWJzrcg7XT_9R2pnzI-mzqS0SxGSdk?usp=drive_link
+
 # Mac 01
 > Used for development and general use
 
@@ -111,3 +113,16 @@
 
 # Mac 02
 > Used for games and fucking around
+
+*Dwarf Fotress*
+
+*Prism Launcher*
+
+*Roblox*
+
+*Stray*
+
+*Sims 4*
+
+*Parallels Maybe*
+> - [PD Runner](https://github.com/utsanjan/PD.Runner)
