@@ -1,0 +1,4 @@
+- brew
+	- wget 
+	- nvim
+	- fswatch
